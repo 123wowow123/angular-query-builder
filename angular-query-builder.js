@@ -35,7 +35,7 @@ queryBuilder.directive('queryBuilder', ['$compile', function ($compile) {
         scope: {
             group: '='
         },
-        templateUrl: '/queryBuilderDirective.html',
+        templateUrl: 'template/queryBuilderDirective.html',
         compile: function (element, attrs) {
             var content, directive;
             content = element.contents().remove();
