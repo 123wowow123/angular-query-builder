@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": [
     "angular-query-builder.js",
-    "css/styles.css"
+    "css/styles.css",
+    "template/queryBuilderDirective.html"
   ],
   "authors": [
     "mfauveau"
